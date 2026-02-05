@@ -53,4 +53,3 @@
 ## 🚧 트러블 슈팅 (Troubleshooting)
 
 - **404 Not Found 에러**: API 메서드(POST/GET) 불일치 및 주소 오타 문제를 Swagger UI를 통해 디버깅하여 해결했습니다.
-- **Git 인증 오류**: GitHub의 패스워드 인증 지원 중단에 따라 **Personal Access Token(PAT)**을 발급받아 원격 저장소 푸시 문제를 해결했습니다.
